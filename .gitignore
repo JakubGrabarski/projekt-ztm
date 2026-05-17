@@ -1,0 +1,8 @@
+postgres_data/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.sql.bak
+ztm_backup.sql
+__pycache__/
+*.pyc
+.DS_Store
