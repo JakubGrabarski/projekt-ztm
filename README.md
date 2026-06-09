@@ -1,5 +1,8 @@
 Cześć! Oto nasz projekt ZTM. 
 
+Cel projektu:
+Głównym celem stworzonych skryptów jest bieżące monitorowanie dostępności i obciążenia floty transportu miejskiego. System umożliwia precyzyjne śledzenie lokalizacji poszczególnych pojazdów na interaktywnej mapie. Ponadto narzędzie dostarcza kluczowych statystyk w czasie rzeczywistym, pozwalając błyskawicznie sprawdzić aktualną liczbę kursujących autobusów i tramwajów oraz zidentyfikować najbardziej aktywne linie komunikacyjne.
+
 Jak to odpalić u siebie:
 1. Zainstaluj i włącz program Docker Desktop.
 2. Otwórz Terminal na swoim Macu/PC w tym folderze i wpisz:
